@@ -83,6 +83,9 @@ You can either create an issue with an appropriate label (enhancement, help want
 4. Push to the branch: `git push origin my-changes`
 5. Submit a pull request :D
 
+## Kite design software
+
+To create the 3D Model of the kite and the dxf plans I'm using my software [WingCalc](http://www.wingworks.de/kite-design/3d-software-wingcalc/). The software is not part of the project and not (yet) OpenSource. I'm also working on an onlineversion to make it available for everyone.
 
 ## Authors
 
