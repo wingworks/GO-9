@@ -95,7 +95,7 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 
 ## History
 
-GO-alpha-0.1 (08. May 2016)
+GO-S-alpha-0.1 (08. May 2016)
 First draft based on the Single Strut Kite Ventus
 
 
@@ -106,7 +106,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ## Version
-GO-alpha-0.1
+GO-S-alpha-0.1
 
 
 ## Contact
