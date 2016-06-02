@@ -4,7 +4,7 @@
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
-Then you should join this free kite build project!
+Then you should join this Open Kite Build project!
 
 The tube kite GO in size S (9sqm) is a modern freeride kite. Easy to relaunch, suitable for beginners and experts.
 The big difference between the GO and all the other freeride kites on the market is that **YOU** can get involved in the design process. Give feedback, build your own version, improove the design and learn a lot about kite design and aerodynamics in general.
@@ -13,7 +13,7 @@ The big difference between the GO and all the other freeride kites on the market
 
 You can find the first release of the GO as Release GO-S-alpha-0.1 in the [release section](https://github.com/wingworks/GO/releases).
 
-The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus".
+The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus" which is also available on Github in the (Ventus Repository)[https://github.com/karsteng/Ventus-S].
 
 The release contains the following files:
 * Kite design parameters (GO_S.kite)
