@@ -1,6 +1,8 @@
 # Freeride Kite GO
 
-![Kite GO](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)
+![Kite GO](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png) 
+
+![Kite GO Preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
