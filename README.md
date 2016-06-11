@@ -13,6 +13,8 @@ The big difference between the GO and all the other freeride kites on the market
 
 ## Getting started
 
+View the [Design specs](https://github.com/wingworks/GO/blob/master/GO_S.kite)
+
 You can find the first release of the GO as Release GO-S-alpha-0.1 in the [release section](https://github.com/wingworks/GO/releases).
 
 The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus" which is also available on Github in the [Ventus Repository](https://github.com/karsteng/Ventus-S).
