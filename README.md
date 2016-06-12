@@ -27,8 +27,9 @@ The release contains the following files:
 ## First steps
 
 1. Take a look at the kite design parameters and the 3D model of the kite to get an idea of the flying characteristics  
-1. Read the Howto in the Wiki  
-1. Study the DXF kite plan  
+1. Read the step by step instructions in the project wiki (not published yet)
+1. Study the DXF kite plan 
+1. Add some extra bridle attachment points along the leading edge
 
 **Give feedback and [join in](#join-in)!**
 
