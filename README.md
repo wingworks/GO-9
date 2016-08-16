@@ -1,31 +1,35 @@
 # Freeride Kite GO
 
-![Kite GO](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)
+![Kite GO](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png) 
+
+![Kite GO Preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
-Then you should join this free kite build project!
+Then you should join this Open Kite Build project!
 
 The tube kite GO in size S (9sqm) is a modern freeride kite. Easy to relaunch, suitable for beginners and experts.
 The big difference between the GO and all the other freeride kites on the market is that **YOU** can get involved in the design process. Give feedback, build your own version, improove the design and learn a lot about kite design and aerodynamics in general.
 
-## Getting Started
+## Getting started
 
-You can find the first release of the GO as Release GO-S-alpha-0.1 in the [release section](releases).
+View the [Design specs](https://github.com/wingworks/GO/blob/master/GO_S.kite)
 
-The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus".
+You can find the first release of the GO as Release GO-S-alpha-0.1 in the [release section](https://github.com/wingworks/GO/releases).
+
+The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus" which is also available on Github in the [Ventus Repository](https://github.com/karsteng/Ventus-S).
 
 The release contains the following files:
 * Kite design parameters (GO_S.kite)
 * 3D kite model (GO_S.blend)
 * Kite plan as DXF file (GO_S.dxf)
-* Kite plan as DXF file optimized for laser cutting or plotting (GO_S_laser.dxf)
 
 ## First steps
 
 1. Take a look at the kite design parameters and the 3D model of the kite to get an idea of the flying characteristics  
-1. Read the Howto in the Wiki  
-1. Study the DXF kite plan  
+1. Read the step by step instructions in the project wiki (not published yet)
+1. Study the DXF kite plan 
+1. Add some extra bridle attachment points along the leading edge
 
 **Give feedback and [join in](#join-in)!**
 
@@ -95,7 +99,7 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 
 ## History
 
-GO-S-alpha-0.1 (08. May 2016)
+GO-S-alpha-0.1 (16. May 2016)
 First draft based on the Single Strut Kite Ventus
 
 
