@@ -118,7 +118,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ## Version
-GO-S-alpha-0.1
+GO-S-v_1.0
 
 
 ## Contact
