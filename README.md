@@ -13,16 +13,16 @@ The big difference between the GO and all the other freeride kites on the market
 
 ## Getting started
 
-View the [Design specs](https://github.com/wingworks/GO/blob/master/GO_S.kite)
+Read the [Design specs](https://github.com/wingworks/GO/blob/master/GO_S.kite)
 
-You can find the first release of the GO as Release GO-S-alpha-0.1 in the [release section](https://github.com/wingworks/GO/releases).
+You can find version 1.0 of the GO as Release GO-S-v_1.0 in the [release section](https://github.com/wingworks/GO/releases).
 
-The kite wasn't build yet but it is based on the prooved design of my single strut freeride kite "Ventus" which is also available on Github in the [Ventus Repository](https://github.com/karsteng/Ventus-S).
+The GO is based on my single strut freeride kite "Ventus" which is also available on Github in the [Ventus Repository](https://github.com/karsteng/Ventus-S).
 
 The release contains the following files:
-* Kite design parameters (GO_S.kite)
 * 3D kite model (GO_S.blend)
 * Kite plan as DXF file (GO_S.dxf)
+* Kite plan in overlay mode as PDF file (GO_S.pdf)
 
 ## First steps
 
@@ -103,7 +103,11 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 
 ## History
 
-GO-S-alpha-0.1 (16. May 2016)
+GO-S-v_1.0 (16. August 2016)  
+CAD work is done. This will become the first real prototype.
+[click for changes](https://github.com/wingworks/GO/commit/908f4f67be35fc283a7ef9de783c1449f40e83e7#diff-26043f93cdf11a74554363c3859869a3)
+
+GO-S-alpha-0.1 (16. May 2016)  
 First draft based on the Single Strut Kite Ventus
 
 
