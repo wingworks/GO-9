@@ -57,6 +57,10 @@ Dacron is used for the leading edge, struts and to reinforce the sail
 Polyester spinnaker fabrics rely on their tight Polyester yarn to resits stretch. In comparison to nylon fabrics they do not change their characteristics when exposed to water and sun.
 * [Kite Polyester Spinnaker (50g/sqm)](http://www.extremtextil.de/catalog/Double-Ripstop-Kite-Polyester-hight-tenacity-PU-coated-53g-sqm::2868.html)
 
+
+![Spinnaker and Dacron dimensions](https://github.com/wingworks/GO/blob/master/go-s-fabric.png) 
+**Fabric dimensions of spinnaker and dacron for size 9sqm** 
+
 **TPU**
 
 TPU is used for the leading edge and strut bladders
