@@ -103,11 +103,14 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 
 ## History
 
-GO-S-v_1.0 (16. August 2016)  
+**GO-S-v_1.0 (16. August 2016)**  
 CAD work is done. This will become the first real prototype.
 [click for changes](https://github.com/wingworks/GO/commit/908f4f67be35fc283a7ef9de783c1449f40e83e7#diff-26043f93cdf11a74554363c3859869a3)
 
-GO-S-alpha-0.1 (16. May 2016)  
+![Diff](https://github.com/wingworks/GO/blob/master/go_alpha_v10.png)  
+Diff between version 1.0 (orange) and alpha-0.1
+
+**GO-S-alpha-0.1 (16. May 2016)**  
 First draft based on the Single Strut Kite Ventus
 
 
