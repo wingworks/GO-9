@@ -1,6 +1,6 @@
 # Freeride Kite GO
 
-![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png) 
+![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
 3D preview
 
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
