@@ -3,7 +3,7 @@
 ![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
 3D preview
 
-![GO first flight] (https://github.com/wingworks/GO/blob/master/100_6951.jpg)
+![GO first flight] (https://github.com/wingworks/GO/blob/master/100_6951.jpg)  
 First flight
 
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
