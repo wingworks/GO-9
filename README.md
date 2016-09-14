@@ -6,6 +6,8 @@
 ![GO first flight] (https://github.com/wingworks/GO/blob/master/100_6951.jpg)  
 First flight
 
+![GO in action] (https://github.com/wingworks/GO/blob/master/go-kite.jpg) 
+
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
 2D preview
 
