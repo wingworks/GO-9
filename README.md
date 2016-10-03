@@ -116,6 +116,15 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 
 ## History
 
+**GO-S-v_1.1 (3. October 2016)**  
+Some changes after testflying the first Prototype:
+* More curvature in the first 3 sail segments for a more rounded shape and less wrinkles
+* Bridle changes for more comfortable bar tension and better steering
+* Bladders included in DXF
+* Position of all valves included in DXF
+
+[click for changes](https://github.com/wingworks/GO-S/commit/a5b704759f97dc15eea23ea1a63cfd541e86ce64#diff-26043f93cdf11a74554363c3859869a3)
+
 **GO-S-v_1.0 (16. August 2016)**  
 CAD work is done. This will become the first real prototype.
 [click for changes](https://github.com/wingworks/GO/commit/908f4f67be35fc283a7ef9de783c1449f40e83e7#diff-26043f93cdf11a74554363c3859869a3)
