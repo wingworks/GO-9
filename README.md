@@ -3,6 +3,8 @@
 ![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
 3D preview
 
+![GO in action] (https://github.com/wingworks/GO/blob/master/100_7137.jpg) 
+
 ![GO in action] (https://github.com/wingworks/GO/blob/master/go-kite.jpg) 
 
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
