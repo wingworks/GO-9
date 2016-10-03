@@ -3,13 +3,19 @@
 ![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
 3D preview
 
-![GO first flight] (https://github.com/wingworks/GO/blob/master/100_6951.jpg)  
-First flight
-
 ![GO in action] (https://github.com/wingworks/GO/blob/master/go-kite.jpg) 
 
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
 2D preview
+
+![Segment preview](https://github.com/wingworks/GO/blob/master/GO_S-segment.png)  
+Segment preview
+
+![Segment details preview](https://github.com/wingworks/GO/blob/master/GO_S-segment-details.png)  
+Segment details preview
+
+![Sail Panel preview](https://github.com/wingworks/GO/blob/master/GO_S_panels.png)  
+Sail panel preview (curvature)
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
@@ -109,6 +115,15 @@ To create the 3D Model of the kite and the dxf plans I'm using my software [Wing
 * **Karsten Gaebert** - *Initial work* -
 
 ## History
+
+**GO-S-v_1.1 (3. October 2016)**  
+Some changes after testflying the first Prototype:
+* More curvature in the first 3 sail segments for a more rounded shape and less wrinkles
+* Bridle changes for more comfortable bar tension and better steering
+* Bladders included in DXF
+* Position of all valves included in DXF
+
+[click for changes](https://github.com/wingworks/GO-S/commit/a5b704759f97dc15eea23ea1a63cfd541e86ce64#diff-26043f93cdf11a74554363c3859869a3)
 
 **GO-S-v_1.0 (16. August 2016)**  
 CAD work is done. This will become the first real prototype.
