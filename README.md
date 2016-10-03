@@ -3,13 +3,19 @@
 ![Kite 3D preview](https://github.com/wingworks/GO/blob/master/GO_S_perspective.png)  
 3D preview
 
-![GO first flight] (https://github.com/wingworks/GO/blob/master/100_6951.jpg)  
-First flight
-
 ![GO in action] (https://github.com/wingworks/GO/blob/master/go-kite.jpg) 
 
 ![Kite 2D preview](https://github.com/wingworks/GO/blob/master/GO_S_plan_preview.png)  
 2D preview
+
+![Segment preview](https://github.com/wingworks/GO/blob/master/GO_S-segment.png)  
+Segment preview
+
+![Segment details preview](https://github.com/wingworks/GO/blob/master/GO_S-segment-details.png)  
+Segment details preview
+
+![Sail Panel preview](https://github.com/wingworks/GO/blob/master/GO_S_panels.png)  
+Sail panel preview (curvature)
 
 You are interested in designing and building your own tube kite? But you don't know how to start?
 Where to get the plans and the right materials?  
